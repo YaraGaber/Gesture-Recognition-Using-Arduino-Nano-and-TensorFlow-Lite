@@ -42,6 +42,7 @@ This project is ideal for:
 ## Hardware Requirements
 To build this project, you will need the following components:
 - **Arduino Nano**
+- ![Arduino Nano 33](https://github.com/YaraGaber/Gesture-Recognition-Using-Arduino-Nano-and-TensorFlow-Lite/blob/main/assets/Arduino%20Nano%2033%20BLE%20Rev2.jpg)  
 - **MPU6050 Accelerometer and Gyroscope Sensor**
 - Jumper wires
 - Breadboard
