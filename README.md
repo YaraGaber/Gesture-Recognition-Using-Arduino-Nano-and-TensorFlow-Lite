@@ -1,7 +1,8 @@
 
 # Gesture Recognition Using Arduino Nano and TensorFlow Lite
 
-This project demonstrates how to implement **real-time gesture recognition** using an **Arduino Nano** and **TensorFlow Lite**. The system captures motion data from an **MPU6050 accelerometer and gyroscope**, processes it using a pre-trained TensorFlow Lite model, and classifies gestures in real-time. This is a great example of running machine learning on microcontrollers!
+This project demonstrates how to implement **real-time gesture recognition** using an **Arduino Nano** and **TensorFlow Lite**. The system captures motion data from an **MPU6050 accelerometer and gyroscope**, processes it using a pre-trained TensorFlow Lite model, and classifies gestures in real-time. This is a great example of running machine learning on microcontrollers! 
+- ![Arduino Nano 33](https://github.com/YaraGaber/Gesture-Recognition-Using-Arduino-Nano-and-TensorFlow-Lite/blob/main/assets/Arduino%20Nano%2033%20BLE%20Rev2.jpg)  
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -42,7 +43,6 @@ This project is ideal for:
 ## Hardware Requirements
 To build this project, you will need the following components:
 - **Arduino Nano**
-- ![Arduino Nano 33](https://github.com/YaraGaber/Gesture-Recognition-Using-Arduino-Nano-and-TensorFlow-Lite/blob/main/assets/Arduino%20Nano%2033%20BLE%20Rev2.jpg)  
 - **MPU6050 Accelerometer and Gyroscope Sensor**
 - Jumper wires
 - Breadboard
